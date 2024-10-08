@@ -51,3 +51,7 @@ file_name = "fileName.html"
 ```bash
 py main.py
 ```
+
+## Note
+
+If main.py output can't render all svg. Use main2.py, it have pagination
